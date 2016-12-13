@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"mag",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"mari",
+				"margin-left"
+			],
+			[
+				"sec",
+				"section2"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"ex",
+				"ultra-expanded"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ba",
+				"backface-visibility"
+			],
+			[
+				"li",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: css",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture30/before/index.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture29/after/index.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture29/before/css/styles.css",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture25/css/bootstrap.css",
+		"/D/coursera/bootstrap/bootstrap-3.3.7-dist/sample1.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture26/css/styles.css",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture26/grid-after.html",
+		"/D/coursera/courseratest/site/sample1.html",
+		"/D/coursera/courseratest/site/Module2Assignment/css/MyRestaurant.css",
+		"/D/coursera/courseratest/site/Module2Assignment/MyRestaurant.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/assignments/assignment2/Assignment-2.md",
+		"/D/coursera/courseratest/site/MyRestaurant.html",
+		"/D/coursera/courseratest/site/css/MyRestaurantstyle.css",
+		"/D/coursera/courseratest/site/sample.css",
+		"/D/coursera/courseratest/site/sample.html",
+		"/D/coursera/courseratest/site/sample",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture23/media-queries-after.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture24/responsive-after.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture21/floating-before.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture22/positioning-before.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture21/floating-after.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture22/positioning-after.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture19/box-model-before.html",
+		"/D/coursera/courseratest/site/MyRestaurantstyle.css",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture26/grid-before.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture25/index.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture23/media-queries-before.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture21/two-column-before.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture21/two-column-after.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture20/background-after.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture20/background-before.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture17/specificity.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture14/child-selector-after.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture19/box-model-after.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture14/descendant-selector-after.html",
+		"/C/Users/sam/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture17/external.css",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture17/inheritance.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture17/origin.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture16/style.css",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture16/style-placement.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture15/pseudo-selectors-after.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture15/pseudo-selectors-before.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture14/element-with-class-before.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture14/element-with-class-after.html",
+		"/D/coursera/courseratest/fullstack-course4-master/fullstack-course4-master/examples/Lecture13/simple-selectors-before.html",
+		"/D/coursera/courseratest/site/index.html",
+		"/D/coursera/courseratest/csszengarden.html",
+		"/D/coursera/courseratest/mycss.css",
+		"/D/coursera/courseratest/mycss"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"table",
+			"00ffff",
+			"808080",
+			"margin",
+			"menu1",
+			"15%",
+			"20px",
+			"666666",
+			"d9d9d9",
+			"menu3content",
+			"media"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"999999",
+			"00ffff",
+			"20%",
+			"8c8c8c",
+			"666666"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
